@@ -7,7 +7,7 @@ The transition from RNA to DNA genetics requires the selective formation of 2-de
 Stochastic Simulation of Ribose-to-2-Deoxyribose Conversion. https://doi.org/10.5281/zenodo.20209468
 
 Project Overview
-This repository contains a stochastic simulation based on the Gillespie algorithm to model the conversion of Ribose to 2-Deoxyribose on Fe-doped montmorillonite clay. The model accounts for the competitive rates of conversion and degradation under different temperature regimes.
+This repository contains a stochastic simulation based on the Gillespie algorithm to model the conversion of Ribose to 2-Deoxyribose on Fe-doped montmorillonite clay. The model accounts for the competitive rates of conversion and degradation under different temperature regimes.The sensitivity analysis underscores the role of stochastic chaos in prebiotic evolution. Small variations in empirically derived parameters (ΔG‡, F_PROT, k_deg) produce large shifts in the probability of successful deoxyribose accumulation, highlighting the critical importance of micro-compartmentalization. This non-linear, threshold-driven behavior supports the view that Chemical Darwinism operates through selective amplification within noisy, fluctuating environments, consistent with the Matter World Hypothesis.
 
 Key Features
 - Eyring-Polanyi Equation: Precise calculation of reaction rate constants based on activation free energy (Delta G^ddagger).
