@@ -1,4 +1,4 @@
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20759622-blue)](https://doi.org/10.5281/zenodo.20759622)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20759622-blue)](https://doi.org/10.5281/zenodo.20759622) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Author: 
 
