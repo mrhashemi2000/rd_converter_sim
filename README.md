@@ -43,4 +43,4 @@ This repository contains a stochastic simulation based on the Gillespie algorith
 
 If you use this code in your research, please cite it using the Zenodo DOI provided in the release section. https://doi.org/10.5281/zenodo.20759622
 
-https://doi.org/10.5281/zenodo.20759622
+https://doi.org/10.5281/zenodo.20209468
