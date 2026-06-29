@@ -41,6 +41,8 @@ This repository contains a stochastic simulation based on the Gillespie algorith
 
 ## Citation
 
-If you use this code in your research, please cite it using the Zenodo DOI provided in the release section. https://doi.org/10.5281/zenodo.20759622
+If you use this code in your research, please cite it using the Zenodo DOI provided in the release section.
 
-https://doi.org/10.5281/zenodo.20209468
+Reza Hashemi. (2026). mrhashemi2000/rd_converter_sim: Initial Scientific Release. Zenodo. https://doi.org/10.5281/zenodo.20759622
+
+Reza Hashemi. (2026). Quantum-Mechanistic and Stochastic Modeling for Ribose-to-2-Deoxyribose Conversion on Fe-Doped Montmorillonite: Implications for Prebiotic DNA Precursor Emergence under Matter World Hypothesis (Theoretical). Zenodo. https://doi.org/10.5281/zenodo.20209468
