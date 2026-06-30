@@ -7,6 +7,7 @@ import csv
 # PROJECT: Quantum-Mechanistic and Stochastic Modeling for Ribose-to-2-Deoxyribose
 # VERSION: 2.1 (Fixed Eyring + Improved Gillespie + Better Output)
 # AUTHOR: Seyed Mohammad Reza Hashemi (Reza Hashemi)  Intelligence-Augmented (IA) (Updated by Grok)
+# MIT License
 # DOI: 10.5281/zenodo.20759622
 # DESCRIPTION: Fixed version - realistic rates and stochastic behavior
 # =============================================================================
